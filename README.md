@@ -8,3 +8,7 @@
 
 
 由于时间紧促，只进行了一遍翻译，并不能确保**信达雅**，还请酌情配合[原文](https://github.com/daviscook477/BaseMod/wiki)食用。
+
+
+
+[开始使用！](./Home.md)
